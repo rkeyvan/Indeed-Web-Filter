@@ -1,0 +1,6 @@
+{"filters": [
+    {"Job Title":"Developer"},  
+    {"Location":"California"},  
+    {"Work Model":"Remote"},
+    {"Job Title Filters":["Director","Manager","Lead","Sr","Senior"]}
+]}
